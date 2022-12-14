@@ -107,3 +107,4 @@ class VendingMachine
     end
 
 end
+
