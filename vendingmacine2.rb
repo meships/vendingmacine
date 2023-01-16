@@ -114,4 +114,3 @@ class Juice
         @stock = stock
     end
 end
-
